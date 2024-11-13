@@ -1,3 +1,4 @@
+![](https://drive.google.com/file/d/14HHpasVlEZVZZg5_j8IzoBeUjHA644Xw/view?usp=drivesdk)
 # Creating a Windows Bootable Drive 
 
 ## Prerequisites and Installation
