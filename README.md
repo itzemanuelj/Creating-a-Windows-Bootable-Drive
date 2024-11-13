@@ -29,8 +29,8 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 1. Lets start our Download Now.
 2. Select the Bootable Drive where your Windows installation will be used.
 3. Open up your exe. and follow the prompts:
-![](https://drive.google.com/file/d/1-jXUOhVY3SnxwG6kBAyAlCaQ44tlyJRP/view?usp=drive_link)
-![](https://drive.google.com/file/d/1cZ2BzO21JkkPbD21TdFFWcjr70ZpOlWH/view?usp=drive_link)
+![](https://drive.google.com/file/d/1-jXUOhVY3SnxwG6kBAyAlCaQ44tlyJRP/view?usp=drive_link) 
+![](https://drive.google.com/file/d/1QvZKWK0TMR2au7WTMR5iHdLvoBN-ytQt/view?usp=sharing)
 
 ### Step 3: Windows 11 Setup Prompts: 
 1. Accept Windows EULA.
