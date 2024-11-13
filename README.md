@@ -53,6 +53,10 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 ![](images/3.6.png)
 ![](images/4.0.png)
 
+---
+
+>You now have a USB drive that can install Windows! For more details, visit the [Microsoft Support Page](https://support.microsoft.com/en-us).
+
 ## FAQ
 **Q: Can I use this drive for multiple installations?**
 A: Yes, once created, a bootable USB can be used to install Windows on multiple computers, as long as each has its own valid Windows license.
@@ -61,5 +65,5 @@ A: Yes, once created, a bootable USB can be used to install Windows on multiple 
 A: You can re-run the Media Creation Tool to download the latest version of Windows, which will replace the existing installation files on your USB drive.
 -- -
 ## Conclusion
-You’ve successfully created a Windows bootable USB drive! It’s now ready to use for installing or repairing Windows on compatible systems. For more details, visit the official Microsoft Support site.
+You’ve successfully created a Windows bootable USB drive! It’s now ready to use for installing or repairing Windows on compatible systems. 
 -- -
