@@ -1,4 +1,6 @@
-# Creating a Windows Bootable Drive - Prerequisites and Installation
+# Creating a Windows Bootable Drive 
+
+## Prerequisites and Installation
 
 This tutorial outlines the prerequisites and installation steps for Creating a Windows Bootable Drive.
 
@@ -19,9 +21,12 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 ## Installation Steps
 
 ### Step 1: Download Windows 11 via Media Creation Tool
-1. Head over to your favorite web browser and search Download Windows Iso.
+
+1. Head over to your favorite web browser and search <textarea placeholder="Download Windows Iso."></textarea>
+ 
 2. You should see Microsoft offical website [Microsoft ](https://www.microsoft.com/en-us/software-download/windows11) .
 3. Scroll down a bit and you should see a Download Now button. Above that will be Create Windows 11 Installation Media.
+&nbsp;
 ![1.1](https://i.imgur.com/WPEvwD9.png)
 ![1.2](https://i.imgur.com/rmagtPF.png)
 
@@ -29,8 +34,11 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 1. Lets start our Download Now.
 2. Select the Bootable Drive where your Windows installation will be used.
 3. Open up your exe. and follow the prompts:
+&nbsp;
+
 ![2.2](https://i.imgur.com/rH6JAOs.png) 
 ![3.0](https://i.imgur.com/uQ0aXT5.png)
+
 
 ### Step 3: Windows 11 Setup Prompts: 
 1. Accept Windows EULA.
@@ -38,6 +46,7 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 3. We are using an USB flash Drive so lets select USB flash Drive. 
 4. Select your USB flash drive location.
 
+&nbsp;
 
 ![3.1](https://i.imgur.com/OSuS9Vb.png)
 ![3.2](https://i.imgur.com/AcAOrYF.png)
@@ -49,6 +58,7 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 
 1. Now that our download is Finished lets click Finish.
 2. Eject the flash drive.
+&nbsp;
 ![3.5](https://i.imgur.com/FNUuuUX.png)
 ![3.6](https://i.imgur.com/AXGTRor.png)
 ![4.0](https://i.imgur.com/LKbxpbK.png)
