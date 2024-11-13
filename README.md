@@ -22,15 +22,15 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 1. Head over to your favorite web browser and search Download Windows Iso.
 2. You should see Microsoft offical website [Microsoft ](https://www.microsoft.com/en-us/software-download/windows11) .
 3. Scroll down a bit and you should see a Download Now button. Above that will be Create Windows 11 Installation Media.
-![](https://drive.google.com/file/d/1jNFM6znO9z9Z8twZF0hfa6mLYTSmuNyS/view?usp=drive_link)
-![](https://drive.google.com/file/d/1QvZKWK0TMR2au7WTMR5iHdLvoBN-ytQt/view?usp=drive_link)
+![1.1](https://drive.google.com/file/d/1jNFM6znO9z9Z8twZF0hfa6mLYTSmuNyS/view?usp=drive_link)
+![1.2](https://drive.google.com/file/d/1QvZKWK0TMR2au7WTMR5iHdLvoBN-ytQt/view?usp=drive_link)
 
 ### Step 2: Insert Your Bootable Drive
 1. Lets start our Download Now.
 2. Select the Bootable Drive where your Windows installation will be used.
 3. Open up your exe. and follow the prompts:
-![1](https://drive.google.com/file/d/1-jXUOhVY3SnxwG6kBAyAlCaQ44tlyJRP/view?usp=drive_link) 
-![2](https://drive.google.com/file/d/1QvZKWK0TMR2au7WTMR5iHdLvoBN-ytQt/view?usp=sharing)
+![](https://drive.google.com/file/d/1-jXUOhVY3SnxwG6kBAyAlCaQ44tlyJRP/view?usp=drive_link) 
+![](https://drive.google.com/file/d/1QvZKWK0TMR2au7WTMR5iHdLvoBN-ytQt/view?usp=sharing)
 
 ### Step 3: Windows 11 Setup Prompts: 
 1. Accept Windows EULA.
