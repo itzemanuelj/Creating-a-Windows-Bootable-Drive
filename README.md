@@ -1,4 +1,4 @@
-![]()
+![Windows Header Img](https://imgur.com/a/hFNshHR)
 # Creating a Windows Bootable Drive 
 
 ## Prerequisites and Installation
