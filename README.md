@@ -22,15 +22,15 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 1. Head over to your favorite web browser and search Download Windows Iso.
 2. You should see Microsoft offical website [Microsoft ](https://www.microsoft.com/en-us/software-download/windows11) .
 3. Scroll down a bit and you should see a Download Now button. Above that will be Create Windows 11 Installation Media.
-![](images/1.1.png)
-![](images/1.2.png)
+![](https://drive.google.com/file/d/1jNFM6znO9z9Z8twZF0hfa6mLYTSmuNyS/view?usp=drive_link)
+![](https://drive.google.com/file/d/1QvZKWK0TMR2au7WTMR5iHdLvoBN-ytQt/view?usp=drive_link)
 
 ### Step 2: Insert Your Bootable Drive
 1. Lets start our Download Now.
 2. Select the Bootable Drive where your Windows installation will be used.
 3. Open up your exe. and follow the prompts:
-![](images/2.2.png)
-![](images/3.0.png)
+![](https://drive.google.com/file/d/1-jXUOhVY3SnxwG6kBAyAlCaQ44tlyJRP/view?usp=drive_link)
+![](https://drive.google.com/file/d/1cZ2BzO21JkkPbD21TdFFWcjr70ZpOlWH/view?usp=drive_link)
 
 ### Step 3: Windows 11 Setup Prompts: 
 1. Accept Windows EULA.
@@ -39,19 +39,19 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 4. Select your USB flash drive location.
 
 
-![](images/3.1.png)
-![](images/3.2.png)
-![](images/3.3.png)
-![](images/3.4.png)
-![](images/3.5.png)
+![](https://drive.google.com/file/d/1OpUwNMZx1-_Pe7Eyc2c7snvHD98wXVTP/view?usp=drive_link)
+![](https://drive.google.com/file/d/12esx4q8Z0ehnbsEaGZSXOLfxbtAaB4pP/view?usp=drive_link)
+![](https://drive.google.com/file/d/1xilkbc98xzKOGBxTQnS1LdrYKkj0qJIn/view?usp=drive_link)
+![](https://drive.google.com/file/d/17Y_0Xtivgb4XuqlLNLQqZTIfgjFjsM0o/view?usp=drive_link)
+![](https://drive.google.com/file/d/15VvoJt3003IodOjeQuQb0x7H12zFD0Jr/view?usp=drive_link)
 
 ### Step 4: Sit Back, Relax, Get a Red Bull And Lets Our Download Finish
 
 1. Now that our download is done lets click Finish
 2. Eject the flash drive.
 
-![](images/3.6.png)
-![](images/4.0.png)
+![](./images/3.6.png)
+![](./images/4.0.png)
 
 ---
 
