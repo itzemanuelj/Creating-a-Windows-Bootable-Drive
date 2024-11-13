@@ -51,7 +51,7 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 2. Eject the flash drive.
 
 ![win](./images/3.6.png)
-![win](./images/4.0.png)
+![win](https://drive.google.com/uc?export=view&id=1-OecMRTQuuoWafoK2-aDBe5mdwktHCG_)
 
 ---
 
