@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 
 ### Step 1: Download Windows 11 via Media Creation Tool
 
-1. Head over to your favorite web browser and search <textarea placeholder="Download Windows Iso."></textarea>
+1. Head over to your favorite web browser and search **Download Windows Iso**
  
 2. You should see Microsoft offical website [Microsoft ](https://www.microsoft.com/en-us/software-download/windows11) .
 3. Scroll down a bit and you should see a Download Now button. Above that will be Create Windows 11 Installation Media.
