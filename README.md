@@ -42,16 +42,16 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 ![](https://drive.google.com/file/d/1OpUwNMZx1-_Pe7Eyc2c7snvHD98wXVTP/view?usp=drive_link)
 ![](https://drive.google.com/file/d/12esx4q8Z0ehnbsEaGZSXOLfxbtAaB4pP/view?usp=drive_link)
 ![](https://drive.google.com/file/d/1xilkbc98xzKOGBxTQnS1LdrYKkj0qJIn/view?usp=drive_link)
-![](https://drive.google.com/file/d/17Y_0Xtivgb4XuqlLNLQqZTIfgjFjsM0o/view?usp=drive_link)
-![](https://drive.google.com/file/d/15VvoJt3003IodOjeQuQb0x7H12zFD0Jr/view?usp=drive_link)
+![win](https://drive.google.com/file/d/17Y_0Xtivgb4XuqlLNLQqZTIfgjFjsM0o/view?usp=drive_link)
+![win](https://drive.google.com/file/d/15VvoJt3003IodOjeQuQb0x7H12zFD0Jr/view?usp=drive_link)
 
 ### Step 4: Sit Back, Relax, Get a Red Bull And Lets Our Download Finish
 
 1. Now that our download is done lets click Finish
 2. Eject the flash drive.
 
-![](./images/3.6.png)
-![](./images/4.0.png)
+![win](./images/3.6.png)
+![win](./images/4.0.png)
 
 ---
 
