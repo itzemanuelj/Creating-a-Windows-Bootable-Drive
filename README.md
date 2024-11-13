@@ -60,7 +60,9 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 
 1. Now that our download is Finished lets click Finish.
 2. Eject the flash drive.
+
 &nbsp;
+
 ![3.5](https://i.imgur.com/FNUuuUX.png)
 ![3.6](https://i.imgur.com/AXGTRor.png)
 ![4.0](https://i.imgur.com/LKbxpbK.png)
