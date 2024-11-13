@@ -35,6 +35,7 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 1. Lets start our Download Now.
 2. Select the Bootable Drive where your Windows installation will be used.
 3. Open up your exe. and follow the prompts:
+
 &nbsp;
 
 ![2.2](https://i.imgur.com/rH6JAOs.png) 
