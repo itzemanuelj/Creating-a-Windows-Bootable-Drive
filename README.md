@@ -27,6 +27,7 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 2. You should see Microsoft offical website [Microsoft ](https://www.microsoft.com/en-us/software-download/windows11) .
 3. Scroll down a bit and you should see a Download Now button. Above that will be Create Windows 11 Installation Media.
 &nbsp;
+
 ![1.1](https://i.imgur.com/WPEvwD9.png)
 ![1.2](https://i.imgur.com/rmagtPF.png)
 
