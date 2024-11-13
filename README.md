@@ -1,3 +1,5 @@
+![Windows Logo](https://i.imgur.com/2VMpJmj_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+
 # Creating a Windows Bootable Drive 
 
 ## Prerequisites and Installation
