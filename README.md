@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/2VMpJmj.jpeg height="40%" width="60%" alt="Microsoft Azure Logo"/>
 </p>
+
 # Creating a Windows Bootable Drive 
 
 ## Prerequisites and Installation
