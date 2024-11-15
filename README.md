@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation steps for Creating a W
 
 ### Step 1: Download Windows 11 via Media Creation Tool
 
-1. Head over to your favorite web browser and search **Download Windows Iso**
+1. Head over to your favorite web browser and search **Download Windows Iso**.
  
 2. You should see Microsoft offical website [Microsoft ](https://www.microsoft.com/en-us/software-download/windows11) .
 3. Scroll down a bit an click **Download Now** button. Above that will be Create Windows 11 Installation Media.
@@ -83,5 +83,5 @@ A: Yes, once created, a bootable USB can be used to install Windows on multiple 
 A: You can re-run the Media Creation Tool to download the latest version of Windows, which will replace the existing installation files on your USB drive.
 -- -
 ## Conclusion
-You’ve successfully created a Windows bootable USB drive! It’s now ready to use for installing or repairing Windows on compatible systems. 
+🎉You’ve successfully created a Windows bootable USB drive! It’s now ready to use for installing or repairing Windows on compatible systems.🎉 
 -- -
